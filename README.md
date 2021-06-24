@@ -1,11 +1,19 @@
 # gmdacr
 
-The objective of **gmdacr** 📦 is to serve as a library of the most common functions used by the Data Science & Analytics Unit at the Global Migration Data Analysis Centre [(GMDAC)][https://gmdac.iom.int/]. The package, that is in continuous development, includes (or will include) functions to:
+The objective of **gmdacr** 📦 is to serve as a library of the most common functions used by the Data Science & Analytics Unit at the Global Migration Data Analysis Centre [(GMDAC)](https://gmdac.iom.int/). The package, that is in continuous development, includes (or will include) functions to:
 
 * Clean and carpenter data
 * Create customized graphics
 * Conduct analysis
 * Scrap data from online sources.
+
+#Install it!
+
+```
+devtools::install_github("araupontones/gmdacr")
+
+```
+
 
 # Functions
 
@@ -55,7 +63,7 @@ load_functions(dir_functions)
 
 # Creators of the package:
 
-* Andres Arau
+* Andres Arau(https://github.com/araupontones)
 * [Eduardo Acostamadiedo](https://github.com/eduardo757ag)
 * [Imge Cetin](https://github.com/imgesucet)
 * [Murtiza Numamat](https://github.com/murtiza)
