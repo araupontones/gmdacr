@@ -46,6 +46,7 @@ colors_gmdac(c("red", "blue")
 **Creator:** Andres
 
 * **unnest_value_from_list()** Use it in the dplyr context to unnest variables with class list. (see ?unnest_value_from_list)
+
 **Creator:** Andres 
 
 ```
@@ -67,7 +68,7 @@ load_functions(dir_functions)
 
 # Creators of the package:
 
-* Andres Arau(https://github.com/araupontones)
+* [Andres Arau](https://github.com/araupontones)
 * [Eduardo Acostamadiedo](https://github.com/eduardo757ag)
 * [Imge Cetin](https://github.com/imgesucet)
 * [Murtiza Numamat](https://github.com/murtiza)
