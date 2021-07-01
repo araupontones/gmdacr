@@ -17,10 +17,9 @@ devtools::install_github("araupontones/gmdacr")
 
 # Functions
 
-
 ## Data vis
 
-**colors_gmdac()** Use it to load colors in to your analysis. All the colors stored in this function are official colours of IOM, GMDAC, and UN.
+***colors_gmdac()** Use it to load colors in to your analysis. All the colors stored in this function are official colours of IOM, GMDAC, and UN.
 
 **Creator:** Murtiza
 
@@ -42,10 +41,11 @@ colors_gmdac(c("red", "blue")
 
 ## Data Carpintery
 
-**load_functions()** Loads all the functions developed for your project.
+***load_functions()** Loads all the functions developed for your project.
+
 **Creator:** Andres
 
-**unnest_value_from_list()** Use it in the dplyr context to unnest variables with class list. (see ?unnest_value_from_list)
+***unnest_value_from_list()** Use it in the dplyr context to unnest variables with class list. (see ?unnest_value_from_list)
 **Creator:** Andres 
 
 ```
