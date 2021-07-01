@@ -17,6 +17,10 @@ devtools::install_github("araupontones/gmdacr")
 
 # Functions
 
+##Data cleaning
+
+**unnest_value_from_list()** Use it in the dplyr context to unnest variables with class list. (see ?unnest_value_from_list)
+
 ## Data vis
 
 **colors_gmdac()** Use it to load colors in to your analysis. All the colors stored in this function are official colours of IOM, GMDAC, and UN.
