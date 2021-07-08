@@ -63,8 +63,16 @@ load_functions(dir_functions)
 
 ```
 
+# Examples 
 
+* **say_hi()** this will say hi to you :)
 
+**creator** Andres
+
+```
+ say_hi("Team")
+
+```
 
 # Creators of the package:
 
