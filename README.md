@@ -40,6 +40,7 @@ colors_gmdac(c("red", "blue")
 ```
 
 * **un_colors()** Returns all the color pallet of UN's MDGS
+**Creator:** Andres
 
 
 ```
