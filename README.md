@@ -39,6 +39,23 @@ colors_gmdac(c("red", "blue")
 
 ```
 
+* **un_colors()** Returns all the color pallet of UN's MDGS
+
+
+```
+#see all colors 
+
+un_colors()
+
+#retrieve a color or a vector of colors
+
+un_colors("green")
+
+#see help file
+?un_colors
+
+```
+
 ## Data Carpintery
 
 * **load_functions()** Loads all the functions developed for your project.
