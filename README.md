@@ -81,6 +81,21 @@ load_functions(dir_functions)
 
 ```
 
+# Data Analysis
+
+* **sample_size** estimates sample sizes of a known populaiton, allows to define the confidence interval, and error margins.
+**cretor**: Andres
+
+```
+#Example to calculate sample size (n) of a known population of 500, margin error of 5% (how much difference you’ll allow #between the mean number of your sample and the mean number of your population.) and a confidence interval of 95%. #Confindence intervals should be expressed in their z-scores
+
+sample_size(N = 500,
+            margin_error = .05,
+            confidence_interval = 1.9599
+            )
+
+```
+
 # Examples 
 
 * **say_hi()** this will say hi to you :)
